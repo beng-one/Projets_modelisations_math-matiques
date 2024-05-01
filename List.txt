@@ -1,0 +1,4 @@
+- Modélisation 3D
+- Modélisation 2D
+- Modélisation des fractales 
+- Modélisation des systèmes dynamiques
