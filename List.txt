@@ -2,3 +2,6 @@
 - Modélisation 2D
 - Modélisation des fractales 
 - Modélisation des systèmes dynamiques
+- Modélisation des fonctions (Problèmes d'optimisation)
+- Modélisation des séries
+
